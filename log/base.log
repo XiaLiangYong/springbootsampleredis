@@ -1,0 +1,30 @@
+2017-06-30 14:40:42,879 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 4316 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:40:42,881 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:40:42,881 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:40:55,525 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 6060 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:40:55,527 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:40:55,527 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:40:57,621 INFO (StartupInfoLogger.java:57)- Started Application in 2.274 seconds (JVM running for 2.63)
+2017-06-30 14:47:54,950 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 8464 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:47:54,952 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:47:54,952 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:47:57,151 INFO (StartupInfoLogger.java:57)- Started Application in 2.38 seconds (JVM running for 2.739)
+2017-06-30 14:48:32,503 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 8652 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:48:32,505 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:48:32,505 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:48:34,835 INFO (StartupInfoLogger.java:57)- Started Application in 2.523 seconds (JVM running for 2.974)
+2017-06-30 14:48:48,499 DEBUG (ObjectRedisController.java:26)- 访问setPerson:id=null,name=null,age=null
+2017-06-30 14:49:18,428 DEBUG (ObjectRedisController.java:26)- 访问setPerson:id=2,name=lxh2,age=2
+2017-06-30 14:49:46,037 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 4040 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:49:46,040 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:49:46,040 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:49:48,171 INFO (StartupInfoLogger.java:57)- Started Application in 2.317 seconds (JVM running for 2.731)
+2017-06-30 14:50:51,804 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 8644 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:50:51,806 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:50:51,807 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:50:54,038 INFO (StartupInfoLogger.java:57)- Started Application in 2.54 seconds (JVM running for 3.16)
+2017-06-30 14:50:58,012 DEBUG (ObjectRedisController.java:26)- 访问setPerson:id=2,name=lxh2,age=2
+2017-06-30 14:51:49,655 INFO (StartupInfoLogger.java:48)- Starting Application on alibeibei-PC with PID 8912 (D:\javaHome\springbootsampleredis\target\classes started by alibeibei in D:\javaHome\springbootsampleredis)
+2017-06-30 14:51:49,657 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.0.BUILD-SNAPSHOT, Spring v4.3.2.RELEASE
+2017-06-30 14:51:49,657 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2017-06-30 14:51:52,068 INFO (StartupInfoLogger.java:57)- Started Application in 2.627 seconds (JVM running for 2.989)
